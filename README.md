@@ -1,4 +1,4 @@
-# Movies-App
+# MovieFinder
 
 ## Live App
 [https://movie-app-yuvraj.netlify.app/](https://movie-app-yuvraj.netlify.app/)
