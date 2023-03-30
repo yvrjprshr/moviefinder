@@ -1,7 +1,7 @@
 # MovieFinder
 
 ## Live App
-[https://movie-app-yuvraj.netlify.app/](https://movie-app-yuvraj.netlify.app/)
+[https://moviefinder-app-yuvraj.netlify.app/](https://moviefinder-app-yuvraj.netlify.app/)
 
 ## Technologies/Packages/APIs Used
 - React JS
